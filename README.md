@@ -7,7 +7,10 @@
 Programming is something I've always loved and it has always been a hobby of mine rather than a profession or a future profession. Just being able to open up an file, write something, and see what I wrote work brings me a joy that I have just loved for years.
 
 
-Mainly, I use python, including using Ren'Py and PyGame. I also work with HTML and CSS, and love playing with Markdown. 
+Mainly, I use ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff)
+, including using ![Static Badge](https://img.shields.io/badge/Ren'Py-%23FF7F7F?style=for-the-badge&logo=ren'py&logoColor=%23ffffff)
+ and ![Static Badge](https://img.shields.io/badge/PyGame-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff)
+. I also work with HTML and CSS, and love playing with Markdown. 
 Some things I wish to learn and experiment with are React and Godot.
 
 What I plan on doing here is just releasing random projects that something will hopefully find something out of. Possible things that could be considered games will be published to an Itch profile whatsoever.
