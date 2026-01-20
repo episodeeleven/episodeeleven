@@ -20,7 +20,9 @@ What I plan on doing here is just releasing random projects that something will 
 
 ### Tools I Use
 Editor: VSCodium or Kate (Depends on how I feel)
+
 IDEs: JetBrains Suite
+
 Planning & Sketching: Notion(Cohesion on Linux) & Canva
 
 ---
