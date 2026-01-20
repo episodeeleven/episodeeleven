@@ -1,12 +1,13 @@
 <h3 align="center">Welcome</h3>
 <h5 align="center"> Get it right the last time, not the first. </h5>
+
 ---
+
 ### About
 Proogramming is something I've always loved and it has always been a hobby of mine rather than a profession or a future profession. Just being able to open up an file, write something, and see what I wrote work brings me a joy that I have just loved for years.
 
 
-Mainly, I use python, including using ![Static Badge](https://img.shields.io/badge/Ren'Py-%23FF7F7F?style=plastic&logo=ren'py)
- and PyGame. I also work with HTML and CSS. 
+Mainly, I use python, including using ![Static Badge](https://img.shields.io/badge/Ren'Py-%23FF7F7F?style=for-the-badge&logo=ren'py) and PyGame. I also work with HTML and CSS. 
 Some things I wish to learn and experiment are React and Godot.
 
 
