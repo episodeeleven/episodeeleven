@@ -1,5 +1,5 @@
-<h3 style="text-align:center;" align="center">Welcome</h3>
-<h5 style="text-align:center;" align="center"> Get it right the last time, not the first. </h5>
+<h3 align="center">Welcome</h3>
+<h5 align="center"> Get it right the last time, not the first. </h5>
 
 <!--
 **episodeeleven/episodeeleven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
