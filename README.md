@@ -10,8 +10,9 @@ Programming is something I've always loved and it has always been a hobby of min
 Mainly, I use ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff)
 , including using ![Static Badge](https://img.shields.io/badge/Ren'Py-%23FF7F7F?style=for-the-badge&logo=ren'py&logoColor=%23ffffff)
  and ![Static Badge](https://img.shields.io/badge/PyGame-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff)
-. I also work with HTML and CSS, and love playing with Markdown. 
-Some things I wish to learn and experiment with are React and Godot.
+. I also work with ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23ffffff)
+ and ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&logoColor=%23ffffff), and love playing with ![Static Badge](https://img.shields.io/badge/Markdown-%23000000?style=for-the-badge&logo=markdown&logoColor=%23ffffff). 
+Some things I wish to learn and experiment with are ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=%23ffffff) and ![Static Badge](https://img.shields.io/badge/Godot-%23478CBF?style=for-the-badge&logo=godot%20engine&logoColor=%23ffffff).
 
 What I plan on doing here is just releasing random projects that something will hopefully find something out of. Possible things that could be considered games will be published to an Itch profile whatsoever.
 
