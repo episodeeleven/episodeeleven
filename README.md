@@ -1,20 +1,15 @@
 <h3 align="center">Welcome</h3>
 <h5 align="center"> Get it right the last time, not the first. </h5>
+---
+### About
+Proogramming is something I've always loved and it has always been a hobby of mine rather than a profession or a future profession. Just being able to open up an file, write something, and see what I wrote work brings me a joy that I have just loved for years.
 
-<!--
-**episodeeleven/episodeeleven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Mainly, I use python, including using ![Static Badge](https://img.shields.io/badge/Ren'Py-%23FF7F7F?style=plastic&logo=ren'py)
+ and PyGame. I also work with HTML and CSS. 
+Some things I wish to learn and experiment are React and Godot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 ---
 ![episodeeleven's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=episodeeleven&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
