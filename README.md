@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome
 
 <!--
 **episodeeleven/episodeeleven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+![episodeeleven's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=episodeeleven&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
