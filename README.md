@@ -10,9 +10,19 @@ Programming is something I've always loved and it has always been a hobby of min
 Mainly, I use python, including using Ren'Py and PyGame. I also work with HTML and CSS, and love playing with Markdown. 
 Some things I wish to learn and experiment with are React and Godot.
 
+What I plan on doing here is just releasing random projects that something will hopefully find something out of. Possible things that could be considered games will be published to an Itch profile whatsoever.
+
 ---
 
-### Tools
+### Tools I Use
+Editor: VSCodium or Kate (Depends on how I feel)
+IDEs: JetBrains Suite
+Planning & Sketching: Notion(Cohesion on Linux) & Canva
+
+---
+
+### Contact Me
+As of now, there are zero plans on having a way to contact me. Like said previously, programming/scripting is purely a passion of mine and I do not plan on working for it or getting monetized for it simply because it is something I enjoy. Feel free to interact with me here on on Itch, but don't expect me accepting any offers or requests of any kind. I'm just here to experiment.
 
 ---
 ![episodeeleven's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=episodeeleven&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
